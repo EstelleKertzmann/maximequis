@@ -1,0 +1,41 @@
+{
+  "name": "maximequis",
+  "version": "1.0.0",
+  "description": "Text parser which receives text data as input and replaces the urls with clickable links (anchor tags), emails as clickable mail:to tags and also replaces hash tags (#tag) with empty clickable anchor tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EstelleKertzmann/maximequis.git"
+  },
+  "keywords": [
+    "reprehenderit",
+    "ut",
+    "url",
+    "email",
+    "hash",
+    "hashtags",
+    "laudantium",
+    "fugiat",
+    "aliquam",
+    "textformatting",
+    "eum",
+    "dolorem",
+    "consequatur",
+    "javascript",
+    "sed",
+    "delectus",
+    "string",
+    "qui"
+  ],
+  "author": "ZaneLehner",
+  "license": "ISC",
+  "maintainers": [
+    {
+      "name": "krishcdbry",
+      "email": "krishcdbry@gmail.com"
+    }
+  ]
+}
